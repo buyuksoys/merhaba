@@ -1,3 +1,4 @@
 # merhaba
 hadi hayırlısı :)
-bugün günlreden bazartesi :)
+bugün günlerden pazartesi
+bir satır daha ekledim
